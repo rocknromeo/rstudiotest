@@ -1,0 +1,24 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+```{r file-loading}
+
+anscombe 
+```
+
+
+```{r data-cleaning}
+
+# Kommentare
+
+t.test(anscombe$x1)
+```
+
