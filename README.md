@@ -7,7 +7,6 @@ Man kann sogar mit Windows arbeiten. Die Installation von Git ging ganz einfach,
 
 ## Überschriften
 Das ist auch ein Text
- das ist kein Text
 ### Unterüberschrift
 
 * Liste 1
