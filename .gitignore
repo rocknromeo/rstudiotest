@@ -36,6 +36,8 @@ vignettes/*.pdf
 rsconnect/
 .Rproj.user
 
+# Daten verbleiben lokal und werden nicht öffentlich zugänglich
 data
 
+# wichtig für Mac, damit kleine Vorschaubildchen nicht mitsynchronisiert werden. 
 .DS_Store
