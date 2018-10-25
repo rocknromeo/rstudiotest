@@ -6,7 +6,11 @@ Diese Beschreibung ist in Markdown verfasst. Aller Inhalt ist in der _Progammier
 Man kann sogar mit Windows arbeiten. Die Installation von Git ging ganz einfach, man muss nur sehr oft auf `ok` klicken.
 
 ## Überschriften
+<<<<<<< HEAD
 Das ist auch ein Text
+=======
+Hallo das ist ein Text
+>>>>>>> f9f383ad59fc2f79ec9e0b341083edabe8aa628d
 ### Unterüberschrift
 
 * Liste 1
