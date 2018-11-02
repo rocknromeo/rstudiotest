@@ -1,20 +1,16 @@
-# Überschrift
-Diese Beschreibung ist in Markdown verfasst. Der Rest des Projektes ist in der _Progammiersprache_ `r` erstellt.
+# Akzeptanz von gelber Tapete
+In diesem Forschungsprojekt soll das Thema _gelbe Tapete_ untersucht werden.
+## Teammitglieder
+* rocknromeo
+* sumidu
+## Forschungsfrage
+"Welche Faktoren beeinflussen die Akzeptanz von gelber Tapete"
 
-## Unterüberschrift
-Man kann sogar mit Windows arbeiten. Die Installation von Git ging ganz einfach, man muss nur sehr oft auf `ok` klicken.
-### Unterunterüberschrift
+## Faktorenraum
+![tooltip](githubfiles/Faktorenraum2.png)
 
-* Liste 1
-* Liste 2
+_(Frühere Versionen:)_
 
-1. Liste 1
-2. Liste 2
-
+Diese Version wurde am 2.09.2018 aus den folgenden Gründen angepasst: 
+* Der Faktor zu gelber Tapete war nicht gekennzeichnet
 ![tooltip](githubfiles/Faktorenraum.png)
-
-| Hallo | Test |
-|------|-------|
-| Hallo | Test |
-
-test
