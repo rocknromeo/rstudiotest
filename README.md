@@ -4,7 +4,7 @@ In diesem Forschungsprojekt soll das Thema _gelbe Tapete_ untersucht werden.
 * rocknromeo
 * sumidu
 ## Forschungsfrage
-"Welche Faktoren beeinflussen die Akzeptanz von gelber Tapete"
+"Welche Faktoren beeinflussen die Akzeptanz von gelber Tapete?"
 
 ## Faktorenraum
 ![tooltip](Faktorenraum2.png)
