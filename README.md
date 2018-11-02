@@ -13,4 +13,5 @@ In diesem Forschungsprojekt soll das Thema _gelbe Tapete_ untersucht werden.
 
 Diese Version wurde am 2.09.2018 aus den folgenden Gründen angepasst: 
 * Der Faktor zu gelber Tapete war nicht gekennzeichnet
+
 ![tooltip](githubfiles/Faktorenraum.png)
